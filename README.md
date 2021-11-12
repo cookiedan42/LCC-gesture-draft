@@ -18,3 +18,16 @@ Other text
 Here is a simple 2footnote[^2]. With some additional text after it.  
 
 [^2]: My other reference.  
+
+page1  
+page1  
+page1  
+page1  
+page1  
+page1  
+page1  
+page1  
+page1  
+page1  
+page1  
+page1   
