@@ -1,10 +1,18 @@
-# LCC-gesture-draft
+---
+layout: page
+title: LCC Draft
+---
 
+
+NAMES  
+NAMES  
+NAMES  
 
 content content  
 new para new para
 
-![alt text](./images/hearts.gif "Logo Title Text 1")
+![alt text](./images/hearts.gif "Logo Title Text 1")  
+![alt text](./videos/"1_Pause plus Point Right.mp4" "Logo Title Text 1")  
 
 
 
