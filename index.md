@@ -12,9 +12,6 @@ content content
 new para new para
 
 ![alt text](./images/hearts.gif "Logo Title Text 1")  
-<!-- ![alt text]("./videos/1_Pause plus Point Right.mp4" "Logo Title Text 1")   -->
-
-
 
 Here is a simple footnote[^1]. With some additional text after it.  
 
@@ -30,17 +27,16 @@ Here is a simple 2footnote[^2]. With some additional text after it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0W7NiO7Y5qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ozo4d_Vp2rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lVMRex84Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-page1  
-page1  
-page1  
-page1  
-page1  
-page1  
-page1  
-page1  
-page1  
-page1  
-page1  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwN0e1hUDEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c--Mx7Gb4SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zn5viP9dVEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vcjvjcs7-1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 page1   
