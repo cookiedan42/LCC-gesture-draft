@@ -147,4 +147,4 @@ Clark, A. (1998). Where Brain, Body, and World Collide. Daedalus, 127(2), 257-28
 Kendon, A. (1997). Gesture. Annual Review of Anthropology, 26, 109-128.  
 
 McNeill, D. (2005). How Gestures Carry Meaning. In D. McNeill, Gesture and Thought (pp. 22-62). Chicago: University of Chicago Press.  
-<br\>
+<br/>
