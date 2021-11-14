@@ -11,7 +11,7 @@ title: LCC gesture project
 | Ling Min Kang         | A0201594J
 | Muhammad Excel Muslim | A0202923N
 
-## Difference between directions - Min Kang  
+## Difference between directions  
 
 ----  
 Gestures can provide clues to the sequence in which speech is constructed. McNeill (2005) presents the different steps of gesture as different parts of the same thought and communication (p. 30), organised around the stroke (p. 33), however, the disfluency injected by one’s language breaks up one’s thoughts into visibly disparate sections that are visible through gesture.
