@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: LCC gesture project
 ---
 
 # Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers  
