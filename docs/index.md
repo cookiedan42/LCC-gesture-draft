@@ -2,15 +2,12 @@
 layout: page
 title: LCC gesture project
 ---
-
 # Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers  
-  
 
 ## Difference between directions - Min Kang  
 
 ----  
 Gestures can provide clues to the sequence in which speech is constructed. McNeill (2005) presents the different steps of gesture as different parts of the same thought and communication (p. 30), organised around the stroke (p. 33), however, the disfluency injected by one’s language breaks up one’s thoughts into visibly disparate sections that are visible through gesture.
-
 
 __EXAMPLE 1__  
 _Context: Min Kang provides directions for leaving Buona Vista MRT station._  
@@ -20,8 +17,6 @@ _Context: Min Kang provides directions for leaving Buona Vista MRT station._
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0W7NiO7Y5qA?playlist=0W7NiO7Y5qA&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Fig. 1. Prestroke pause prior to gesturing to the right with both hands.  
-
-Min Kang:  
 
 > 搭到地铁站的出入口。出入口- 到出入口时，你要，ah，转 [pause, before pointing right] 右。
 
@@ -34,8 +29,6 @@ __EXAMPLE 2__
 _Context: Min Kang provides instructions on how to reach Fine Foods from Cinnamon College._  
 
 ----  
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ozo4d_Vp2rI?playlist=Ozo4d_Vp2rI&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -57,11 +50,9 @@ Fig. 3.
 
 These examples suggest that ideas are not generated as a complete whole, but rather constructed as broad concepts first (Step 1 in Fig. 3), with specific details being decided on afterward (Steps 2 and 3, Fig. 3). In these examples, the steps appear to be 1) choose the concept of direction, 2) decide on a specific direction, and 3) decide on the aspect of the movement. When the idea is broken up due to poor language proficiency, its corresponding gestures are also broken up into separate events matching their respective thoughts. However, as illustrated in Example 2, when an idea is corrected, we restart the verbalisation and gesturing for the entire idea, rather than just backtracking one step, suggesting that the components that comprise thoughts are generated in a closely-linked way and cannot be easily separated cognitively.
 
-
 ## Gesturing in Mandarin as Wideware to Facilitate Speaking in Mandarin
 
 ----  
-
 
 __EXAMPLE 3__  
 _Context: Min Kang is explaining the procedure needed to enter Fine Foods in Mandarin and in English._  
@@ -78,7 +69,6 @@ Fig. 4. Two-handed pointing gesture referencing the self and the imaginary other
 
 > After you enter the food court [gestures both hands], you need to let a [waves both hands], er, man look at your phone first [gestures with right hand], to ensure [gestures with right hand] that you have your, er [gestures right hand], temperature and, your-, er [both hands gestures outwards], health declaration status [both hands point towards self] declared to him [both hands gestures outwards], (to) ensure that you are not sick [both hands gestures downwards]. Then, you enter- he will then let you [both hands point towards self] enter the food court [both hands gestures outwards].
 
-
 English  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c--Mx7Gb4SE?playlist=c--Mx7Gb4SE&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -86,8 +76,6 @@ English
 Fig. 5. The use of the task-swiping gesture, co-timed with Min Kang’s verbalisation and listing of tasks. 
 
 > Talk to the uncle, show him your [swipe gesture] uNivUS app and your declaration [swipe gesture], and then show that you’ve taken [swipe gesture] your temperature.
-
-
 
 In Example 4, The “swiping” gesture that Min Kang uses when speaking in English (Fig. 4) mimics the “swiping” action used to close applications on handheld devices, suggesting that Min Kang cognizes and structures the tasks that he has yet to give Daniel by spatially representing them. With each swipe, he is “closing” each task (showing the uncle the application, then the declaration) sequentially, as if they were items on a to-do list. Furthermore, using this gesture also signals to Daniel that, like a list of applications, there is also a long list of actions to be completed. 
 
@@ -98,7 +86,6 @@ Examining the different gestures that Min Kang employs when speaking in English 
 In contrast, as a native English speaker, Min Kang did not need to rely on gestures to generate English words. Hence, this set of gestures reflects Min Kang’s cognitive state, rather than merely facilitating his finding of the right words. As described previously, the use of the “swiping” gesture illustrates the way he visualises the discrete steps as tasks in a to-do list. This was not reflected when he spoke in Mandarin, as his relatively poorer Mandarin proficiency required more cognitive effort, preventing him from reaching this abstraction step. 
 
 [^2]: While the coordinate systems used in the Mandarin and English recordings were different (relative and cardinal respectively) due to the nature of the assignment, the examples used for analysis specifically drew from segments that did not cover any directions, preventing it from confounding our analysis.
-
 
 ## Gesturing in Mandarin as Wideware to Facilitate Speaking in Mandarin
 
@@ -117,7 +104,6 @@ Fig. 6. The use of the picking-up gesture, which is co-timed with the Mandarin p
 
 > 你拿了猪肉后 [picking up gesture], 就可以买其他东西。  
 > Once you pick up the pork [picking up gesture], you can go ahead and buy other stuff.
-
 
 English
 
@@ -148,3 +134,5 @@ Kendon, A. (1997). Gesture. Annual Review of Anthropology, 26, 109-128.
 
 McNeill, D. (2005). How Gestures Carry Meaning. In D. McNeill, Gesture and Thought (pp. 22-62). Chicago: University of Chicago Press.  
 <br/>
+
+### Footnotes :  
