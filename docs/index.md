@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-# Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers  
+<!-- # Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers   -->
   
 
 ## Difference between directions - Min Kang  
