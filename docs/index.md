@@ -18,7 +18,7 @@ Both speakers in our project are less fluent in Mandarin than English; consequen
 ----  
 Gestures can provide clues to the sequence in which speech is constructed. McNeill (2005) presents the different steps of gesture as different parts of the same thought and communication (p. 30), organised around the stroke (p. 33), however, the disfluency injected by poorer proficiency in one’s language breaks up one’s thoughts into visibly disparate sections that are visible through gesture.  
 
-__EXAMPLE 1__  
+#### __EXAMPLE 1__  
 _Context: Min Kang provides directions for leaving Buona Vista MRT station._  
 
 ----  
@@ -36,7 +36,7 @@ Fig. 1. Prestroke pause prior to gesturing to the right with both hands, indicat
 In Example 1, the pause prior to pointing right seems to indicate that the decision to use a direction precedes and is separate from the decision to use a *specific* direction, along with the process of how to verbalise this direction in Mandarin. The gesture and verbal indecision align with each other in the prestroke pause where the hand is facing upward, and both describe the specific direction together after choosing a specific direction (Fig. 1).
 
 
-__EXAMPLE 2__  
+#### __EXAMPLE 2__  
 _Context: Min Kang provides instructions on how to reach Fine Foods from Cinnamon College._  
 
 ----  
@@ -65,12 +65,12 @@ These examples suggest that ideas are not generated as a complete whole, but rat
 
 ----  
 
-__EXAMPLE 3__  
+#### __EXAMPLE 3__  
 _Context: Min Kang is explaining the procedure needed to enter Fine Foods in Mandarin and in English._  
 
 ----  
 
-__Mandarin__  
+#### __Mandarin__  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mwN0e1hUDEU?playlist=mwN0e1hUDEU&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -80,7 +80,7 @@ Fig. 4. Two-handed pointing gesture referencing the self and the imaginary other
 
 >  After you enter the food court [gestures both hands], you need to let a [waves both hands], er, man look at your phone first [gestures with right hand], to ensure [gestures with right hand] that you have your, er [gestures right hand], temperature and, your-, er [both hands gestures outwards], health declaration status [both hands point towards self] declared to him [both hands gestures outwards], (to) ensure that you are not sick [both hands gestures downwards]. Then, you enter- he will then let you [both hands point towards self] enter the food court [both hands gestures outwards].
 
-__English__ 
+#### __English__ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c--Mx7Gb4SE?playlist=c--Mx7Gb4SE&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -103,12 +103,12 @@ In contrast, as a native English speaker, Min Kang did not need to rely on gestu
 
 ----  
 
-__EXAMPLE 4__  
+#### __EXAMPLE 4__  
 _Context: Daniel is explaining what to do once inside of Kent Ridge NTUC, first in Mandarin, then in English._  
 
 ----  
 
-__Mandarin__  
+#### __Mandarin__  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vcjvjcs7-1c?playlist=Vcjvjcs7-1c&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -117,7 +117,7 @@ Fig. 6. The use of the picking-up gesture, which is co-timed with the Mandarin p
 > 你拿了猪肉后 [picking up gesture], 就可以买其他东西。  
 > Once you pick up the pork [picking up gesture], you can go ahead and buy other stuff.  
 
-__English__  
+#### __English__  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zn5viP9dVEE?playlist=zn5viP9dVEE&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
