@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LCC Draft
+title: 
 ---
 
 # Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers  
@@ -39,6 +39,8 @@ _Context: Min Kang provides instructions on how to reach Fine Foods from Cinnamo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ozo4d_Vp2rI?playlist=Ozo4d_Vp2rI&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+Fig. 2.
+
 > Um, 你。。。[pause] 继续往 [short pause] 右- 靠右边的那条行人路。
 
 > Um, you... [pause] continue towards [short pause] right- keep right[^1] along the pedestrian walkway on the right.  
@@ -51,7 +53,7 @@ Furthermore, while the verbalisation of the phrase was wrong throughout Example 
 
 ![a](/images/fig3.jpg)  
 
-Fig 3.
+Fig. 3.
 
 These examples suggest that ideas are not generated as a complete whole, but rather constructed as broad concepts first (Step 1 in Fig. 3), with specific details being decided on afterward (Steps 2 and 3, Fig. 3). In these examples, the steps appear to be 1) choose the concept of direction, 2) decide on a specific direction, and 3) decide on the aspect of the movement. When the idea is broken up due to poor language proficiency, its corresponding gestures are also broken up into separate events matching their respective thoughts. However, as illustrated in Example 2, when an idea is corrected, we restart the verbalisation and gesturing for the entire idea, rather than just backtracking one step, suggesting that the components that comprise thoughts are generated in a closely-linked way and cannot be easily separated cognitively.
 
@@ -78,9 +80,6 @@ Fig. 4. Two-handed pointing gesture referencing the self and the imaginary other
 
 
 ### English  
-
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c--Mx7Gb4SE?playlist=c--Mx7Gb4SE&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -139,11 +138,8 @@ Analysing the gestures Daniel uses when describing the scene in English supports
 
 In Examples 3 and 4, both speakers use gestures as wideware to facilitate thinking when speaking Mandarin, since it is their L2 and requires more cognitive effort to articulate. However, they use gestures differently to facilitate thinking. Min Kang gestures what he is saying in Mandarin to nonverbally inform the interlocutor that he is thinking, to buy more time for him to articulate the next section of the dialogue. His gestures are also more deliberate and comprehensive in Mandarin compared to English to emphasise the semantic meanings of the Mandarin words he vocalises. In comparison, Daniel’s gestures are based on what he would have said in English. Rather than buying time for him to find the right words, Daniel’s gestures instead help him speak Mandarin by serving as external prompts to facilitate his retrieval of the corresponding Mandarin words. While Daniel’s gestures in Mandarin are similarly more detailed, they serve to convey the appropriate translation of Mandarin words he verbalises, rather than convey the semantic meaning of those words.
 
-[Word count: 1490 words, excluding citations, footnotes, headings, references and figures]
 
-
-
-References
+### References : 
 Alač, M. (2005). Widening the Wideware: An Analysis of Multimodal Interaction in Scientific Practice. Proceedings of the Annual Meeting of the Cognitive Science Society, 27, 85-90.  
 
 Clark, A. (1998). Where Brain, Body, and World Collide. Daedalus, 127(2), 257-280.  
@@ -151,9 +147,3 @@ Clark, A. (1998). Where Brain, Body, and World Collide. Daedalus, 127(2), 257-28
 Kendon, A. (1997). Gesture. Annual Review of Anthropology, 26, 109-128.  
 
 McNeill, D. (2005). How Gestures Carry Meaning. In D. McNeill, Gesture and Thought (pp. 22-62). Chicago: University of Chicago Press.  
-
-
-
-
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5lVMRex84Vg?playlist=5lVMRex84Vg&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   -->
