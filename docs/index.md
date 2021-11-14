@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-<!-- # Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers   -->
+# Gesturing and Cognitive Affordances: The use of Gesturing to Facilitate Thinking Across English and Mandarin in Bilingual Speakers  
   
 
 ## Difference between directions - Min Kang  
@@ -68,7 +68,7 @@ _Context: Min Kang is explaining the procedure needed to enter Fine Foods in Man
 
 ----  
 
-### Mandarin  
+Mandarin  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mwN0e1hUDEU?playlist=mwN0e1hUDEU&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -79,7 +79,7 @@ Fig. 4. Two-handed pointing gesture referencing the self and the imaginary other
 > After you enter the food court [gestures both hands], you need to let a [waves both hands], er, man look at your phone first [gestures with right hand], to ensure [gestures with right hand] that you have your, er [gestures right hand], temperature and, your-, er [both hands gestures outwards], health declaration status [both hands point towards self] declared to him [both hands gestures outwards], (to) ensure that you are not sick [both hands gestures downwards]. Then, you enter- he will then let you [both hands point towards self] enter the food court [both hands gestures outwards].
 
 
-### English  
+English  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c--Mx7Gb4SE?playlist=c--Mx7Gb4SE&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -109,7 +109,7 @@ _Context: Daniel is explaining what to do once inside of Kent Ridge NTUC, first 
 
 ----  
 
-### Mandarin  
+Mandarin  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zn5viP9dVEE?playlist=zn5viP9dVEE&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -119,7 +119,7 @@ Fig. 6. The use of the picking-up gesture, which is co-timed with the Mandarin p
 > Once you pick up the pork [picking up gesture], you can go ahead and buy other stuff.
 
 
-### English
+English
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vcjvjcs7-1c?playlist=Vcjvjcs7-1c&loop=1&modestbranding=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
