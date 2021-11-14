@@ -13,7 +13,7 @@ title: LCC gesture project
 
 Both speakers in our project are less fluent in Mandarin than English; consequently, the increased cognitive effort required to speak in Mandarin influences their gestures in Mandarin, making them slower and more distinct. We will analyse how these differences reveal cognitive processes and shape our thoughts in the following examples.
 
-## How poor Mandarin proficiency reveals the components of thoughts 
+### How poor Mandarin proficiency reveals the components of thoughts 
 
 ----  
 Gestures can provide clues to the sequence in which speech is constructed. McNeill (2005) presents the different steps of gesture as different parts of the same thought and communication (p. 30), organised around the stroke (p. 33), however, the disfluency injected by poorer proficiency in one’s language breaks up one’s thoughts into visibly disparate sections that are visible through gesture.  
@@ -61,7 +61,7 @@ Fig 3.The breaking down of thoughts into their various component steps as reveal
 
 These examples suggest that ideas are not generated as a complete whole, but rather constructed as broad concepts first (Step 1 in Fig. 3), with specific details being decided on afterward (Steps 2 and 3, Fig. 3). In these examples, the steps appear to be 1) choose the concept of direction, 2) decide on a specific direction, and 3) decide on the aspect of the movement. When the idea is broken up due to poor language proficiency, its corresponding gestures are also broken up into separate events matching their respective thoughts. However, as illustrated in Example 2, when an idea is corrected, we restart the verbalisation and gesturing for the entire idea, rather than just backtracking one step, suggesting that the components that comprise thoughts are generated in a closely-linked way and cannot be easily separated cognitively.  
 
-## Gesturing in Mandarin as wideware to facilitate speaking in Mandarin  
+### Gesturing in Mandarin as wideware to facilitate speaking in Mandarin  
 
 ----  
 
@@ -99,7 +99,7 @@ In contrast, as a native English speaker, Min Kang did not need to rely on gestu
 
 [^2]: While the coordinate systems used in the Mandarin and English recordings were different (relative and cardinal respectively) due to the nature of the assignment, the examples used for analysis specifically drew from segments that did not cover any directions, preventing it from confounding our analysis.
 
-## Gesturing in English as wideware to facilitate speaking in Mandarin
+### Gesturing in English as wideware to facilitate speaking in Mandarin
 
 ----  
 
